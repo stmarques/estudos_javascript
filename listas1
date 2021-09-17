@@ -1,0 +1,8 @@
+var filme1 = "Yesterday"
+var filme2 = "A Chegada"
+var filme3 = "Escola de Rock"
+
+//experimente o h1, strong
+document.write("<p>" + filme1 + "</p>")
+document.write("<p>" + filme2 + "</p>")
+document.write("<p>" + filme3 + "</p>")
